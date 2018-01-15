@@ -1,5 +1,5 @@
 #main-menu .menu-children, .ui-widget-content {
-  z-index: 15;
+  z-index: 1005;
 }
 
 #hideSidebarButton {
